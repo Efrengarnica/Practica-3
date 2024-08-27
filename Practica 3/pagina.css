@@ -1,0 +1,14 @@
+@media(max-width: 576px){
+    .footer-title{
+        text-align: center;
+    }
+    .li-ult{
+        text-align: center;
+    }
+    .ult-text{
+        text-align: center;
+    }
+}
+.Aseparar{
+    margin-bottom: 20px;
+}
